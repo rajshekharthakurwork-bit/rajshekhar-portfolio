@@ -11,9 +11,10 @@ Clean and simple design
 Project showcase
 About and contact sections
 
-Live Site
+Live At
+https://rajshekharthakurwork-bit.github.io/rajshekhar-portfolio/
 
 
 Contact
-GitHub: (your profile link)
+GitHub:]https://github.com/rajshekharthakurwork-bit
 LinkedIn: www.linkedin.com/in/raj-shekhar1725
