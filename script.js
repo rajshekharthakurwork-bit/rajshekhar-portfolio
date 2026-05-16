@@ -115,12 +115,11 @@ if (sendBtn) {
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body   : JSON.stringify({
           access_key: WEB3FORMS_KEY,
-          name,
-          email,
+          to_email: 'rajshekharthakur.official@gmail.com',
+          from_name: name,
+          from_email: email,
           subject,
           message,
-          /* Extra context shown in the email */
-          from_name : 'Portfolio Contact Form',
         }),
       });
 
