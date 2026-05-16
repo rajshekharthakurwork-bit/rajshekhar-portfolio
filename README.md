@@ -17,10 +17,10 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 ## 🎯 Purpose
 This portfolio highlights my technical skills, projects, and professional profile in a simple and interactive way.
 
-Live Site
+## Live Site
 https://rajshekharthakurwork-bit.github.io/rajshekhar-portfolio/
 
-Contact:-
+## Contact:-
 GitHub:https://github.com/rajshekharthakurwork-bit
 
-LinkedIn: [www.linkedin.com/in/raj-shekhar1725](https://www.linkedin.com/in/raj-shekhar1725/)
+LinkedIn: "https://www.linkedin.com/in/raj-shekhar1725/"
