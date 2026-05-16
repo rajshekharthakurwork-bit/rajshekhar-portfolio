@@ -9,7 +9,7 @@
    Get a FREE key at: https://web3forms.com
    (just enter rajshekharthakur.official@gmail.com)
    ─────────────────────────────────────────── */
-const WEB3FORMS_KEY = '73b73884-7f2a-43f4-9dea-dad96a46e0b6SS_KEY_HERE';
+const WEB3FORMS_KEY = '73b73884-7f2a-43f4-9dea-dad96a46e0b6';
 
 
 /* ── 1. ACTIVE NAV LINK ON SCROLL ──────────────
