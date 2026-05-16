@@ -1,19 +1,24 @@
-Portfolio Website
+# 🌐 Portfolio Website
 
-This is my personal portfolio website, created to showcase my projects, skills, and experience.
+A modern and responsive personal portfolio website showcasing my projects, skills, and experience.
 
-Built With
-HTML
-CSS
-Js 
+## 🚀 Built With
+- HTML5
+- CSS3
+- JavaScript
 
-Features
-Clean and simple design
-Project showcase
-About and contact sections
+## ✨ Features
+- Responsive design
+- Project showcase
+- About section
+- Contact section
+- Clean UI/UX
+
+## 🎯 Purpose
+This portfolio highlights my technical skills, projects, and professional profile in a simple and interactive way.
 
 Live Site
-
+https://rajshekharthakurwork-bit.github.io/rajshekhar-portfolio/
 
 Contact:-
 GitHub:https://github.com/rajshekharthakurwork-bit
