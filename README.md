@@ -15,6 +15,7 @@ About and contact sections
 Live Site
 
 
-Contact
-GitHub: (your profile link)
-LinkedIn: www.linkedin.com/in/raj-shekhar1725
+Contact:-
+GitHub:https://github.com/rajshekharthakurwork-bit
+
+LinkedIn: [www.linkedin.com/in/raj-shekhar1725](https://www.linkedin.com/in/raj-shekhar1725/)
